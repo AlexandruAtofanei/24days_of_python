@@ -1,1 +1,1 @@
-# 24days_of_python
+# 24 days of solving simple yet interesting python problems
